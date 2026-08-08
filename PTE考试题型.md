@@ -629,11 +629,13 @@ The picture illustrates a scene related to **[主题]**. Overall, the image show
 | **权重** | 中等 |
 
 **评分标准：** 部分得分
+
 - 按"相邻配对"计分，每一对相邻段落顺序正确得1分
 - 例如5个段落，最多可得4分（4对相邻关系）
 
 **备考要点：**
-- 先找首段（通常包含主题引入、背景介绍，无代词指代）
+
+- 先找首段（通常包含主题引入、背景介绍，**无代词指代**）
 - 找逻辑连接词：therefore, however, moreover, this, these 等
 - 注意代词的指代关系
 

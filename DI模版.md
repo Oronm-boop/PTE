@@ -46,6 +46,9 @@ Firstly,the highest number can be found in 最大项目，
 Secondly,the second highest number is located in 第二大项目,
            which is about 第二大数值.
            
+Thirdly,the lowest figure is 最小项目，
+           and the number is around 最小数值.
+           
 Furthermore,其他项目1 and 其他项目2 also carry important weight
 in this graph.
 
