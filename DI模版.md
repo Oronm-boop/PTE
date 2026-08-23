@@ -36,7 +36,7 @@
 **极值模版-单分类** （table 、 map 、 line chart 、bar chart 、pie chart）
 
 ```JS
-this line chart shows information about 标题.
+This line chart shows information about title.
 
 overall,we can see a clear trend and noticeable differences in the data.
 
@@ -61,14 +61,14 @@ In summary,this chart uses real data to describe 标题.
 ```JS
 this line chart shows information about 标题.
 
-if you look at 分类1,
+if you look at something1,
     the highest number can be found in 分类1最大项目，
                      which is aound 分类1最大数值,
                          
     the lowest figure is located in 分类1最小项目，
                      which is about 分类1最小数值.
                      
-if you look at 分类2，
+if you look at something2，
     the highest number is 分类2最大项目，
                      and the number is around 分类2最大数值.
                      
@@ -83,13 +83,13 @@ In summary,this chart uses real data to describe 标题.
 
 ```JS
 
-This flow charts shows information about 标题.
+This flow charts shows information about title.
 
-According to the picture we can see that 
+According to the picture we can see that
 
-Firstly,the process starts from the first stage,
+firstly,the process starts from the first stage,
                         which is called step1.
-                        
+
 Secondly,it gose to the second stage,
                         which is about step2.
 
@@ -106,7 +106,7 @@ In summary,the process shows details about 标题.
 **图片模版**       (图片、地图)
 
 ```JS
-This map shows information about 标题.
+This map shows information about title.
 
 if you look at 图片1/方位1，
     the most obvious information given here is ___,
@@ -124,6 +124,5 @@ Furthermore,
     
 In summary,
     this picture uses different elements to describe 标题.
-    
 ```
 
