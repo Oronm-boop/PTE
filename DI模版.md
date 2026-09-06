@@ -38,8 +38,6 @@
 ```JS
 This line chart shows information about title.
 
-overall,we can see a clear trend and noticeable differences in the data.
-
 Firstly,the highest number can be found in 最大项目，
            which is around 最大数值.
            
