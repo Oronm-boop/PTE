@@ -1,5 +1,10 @@
 # SST做题策略
 
+
+
+8.时间要求：这道题有10分钟，但是如果你打字➕句子➕记得自用连接词十分熟练打字部分应该在5分钟就可以全部完成，用2-3分钟仔细检查是否有打错的情况，剩余3-2分钟打WE模版
+9.WE模版：左上角倒计时剩30s就不要再打模版了，把模版复制好，先粘贴试一下是否复制好了，然后再next
+
 ![1782743960951](C:\Users\miracle\AppData\Roaming\Typora\typora-user-images\1782743960951.png)
 
 根据2026年PTE官方评分标准，Summarize Spoken Text (SST) 的评分主要基于**内容 (Content)**、**格式 (Form)**、**语法 (Grammar)**、**词汇 (Vocabulary)** 和**拼写 (Spelling)** 这五个方面。
