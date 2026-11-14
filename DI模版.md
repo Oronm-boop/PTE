@@ -124,3 +124,300 @@ In summary,
     this picture uses different elements to describe 标题.
 ```
 
+
+
+
+
+
+
+
+
+
+
+```
+the line chart shows information about __
+
+Firstly, the highest number can be found in __, which is around __
+
+Secondly, the second highest number is located in __, which is about __
+
+Thirdly, the lowest figure is __  and the number is __
+
+Furthermore, A and B also carry important weight in the graph.
+
+In summary, the chart uses real data to illustrate __
+```
+
+
+
+```
+the line chart shows information about __
+
+If you look at __
+
+the highest number can be found in   ___, which is around   __
+
+the lowest fiure is __ and the number is __
+
+If you look at __
+
+the highest number can be found in __ ,which is around __
+
+Futhermore, __ and __ also carry important weight in this graph.
+
+In summary ,the chart uses real data to illustrate __
+```
+
+
+
+```
+the flow chart show information about __
+
+According to the picture we can see that 
+
+Firstly, the process begins with the first step, 
+  which is called __
+Secondly,it gose to the second step,
+ which is called __
+Thirdly, it comes to the thrid step,
+ which is called __
+Furthermore, the process come to the ending point,
+ which is called __
+In summray, the process shows deatils about __
+```
+
+
+
+```
+the picture shows information about __
+If you look at __
+ the most obvious information given here is __
+Next to it __
+ we can see __ and __, 
+ and these two element are also quite important.
+If you look at __
+ __ and __ are also shown in this part,
+ giving a better understanding about this pictuer.
+Furthermore,
+ we can see __ and __ in the picture as well.
+In summary, the picture uses real data to illustrate __.
+```
+
+
+
+```
+the lecture is mainly about __
+At the beginning, the speaker introduces A
+Then the speaker mentions B, which is ralted to B
+Moreover, the speaker provodes several details about D and E
+The lecture also gave some examples, such F
+In summary, the lecure foucuses on __
+```
+
+```
+the line chart shows information about __
+Firstly, the highest nunber can be found in __, which is around __
+Seocondly, the second highest number is located in __, which is about __
+Thrirdly, the lowest figure is __ and the number is __
+Furthermore, __ and __ also carry important weight in the graph
+In summary, this chart uses real data to illustrate __
+```
+
+```
+the line chart shows information about __
+If you look at __
+ the highest number can be found in __,
+  which is around __
+ the second highest number is located in __
+  which is about __
+If you look at __
+ the highest number can be found in __
+  which is around __
+ the sencond highest number is located in __
+  which is about __
+Furthermore, __ and __ also carry important weight in this graph.
+In summary, the chart uses real data to illustrate __.
+```
+
+```
+the flow shows information about __
+According to the picture,we can see that
+firstly, the process starts form the first step
+ which is called __
+secondly, it goes to the second step,
+ which is about __
+thirdly, it comes to the third step,
+ which is called __
+furtermore, it comes to the ending point,
+ which is about __
+In summary, the chart shows deails about __.
+```
+
+```
+the picture shows information about __
+If you look at __
+ the most obvious information given here is __
+Next to it,
+We can see __ and __,
+ and these two elements are also quite important.
+If you look at __
+ __ and __ are also shown in this part,
+ giving a better understaning about this pictuer.
+Furthermore, we can see __ and __ in this pictuer as well.
+In summary, the picture uses different elements to illustrate __.
+```
+
+Firtst of all
+In additon
+
+What's more
+
+Last but not least 
+however, therefore.
+
+On the one hand, on the other hand
+
+
+it is be of great significance.
+
+I consider that __
+
+what impressed me most is that __
+
+I think it an honor that __
+
+the more __, the more__
+
+only in the way, can we __
+
+prctice makes perfect!
+
+With all the factors taken into consideration, __
+
+no matter how difficult the problem is, I will spare no effort to complete it.
+
+
+
+
+
+lay a solid foundation for 
+
+pave the way for further learning
+
+shoulder responsibility
+
+boraden one's horizons
+
+
+
+make contributions for society 
+
+with the rapid development of AI
+
+integrate theory and practice
+
+focus on time and energy to do sth.
+
+
+
+
+
+With the unprecedented pace of development in AI, the ability to do sth. is become increasing crucial for personal and professional success. In the following, I will share some of my insights about the topic.
+
+
+
+
+
+**There is a growing debate over whether __**
+
+In the following, I will share some of my insights in the 
+
+
+
+DI模板、RL模板、RTS模板
+
+
+
+
+
+
+
+there are three students discussing about __
+
+for the first student, he **mentions** that A. He also argued that A.
+
+for the second student, she agree that A, which is related to B. Moveover, she also provides some deatils about B.
+
+for the second student, he also agreed with the first one, he believed __, he also gave some examples, such as __.
+
+
+
+
+
+
+
+for the first student, he mentions A , he also argues that 
+
+for the second student, he agree A ,  which is ralted to __. Moreover, he also provides some deatils about __
+
+for the third student, he also agree the first one, he believe __, he alos gave some examples, such as __.
+
+
+
+
+
+
+
+there are 3 students discussing about __
+
+for the first student, he mentions __, he also argues that __
+
+for the second student, he agree with __, which is related to ____. Moreover, he also provides some deatils about __
+
+for the third student, he also agree the first one, he believe A, and he also gave some examples, such as __
+
+In summary, the discussing is mainly about __.
+
+
+
+
+
+there are 3 students discussing about __
+
+for the first students, he mentions __, he also argues __
+
+for the second student, he agree __, which is related to __, Moreover, he also provides some detals about __
+
+for the third student, he also agree with the first one, he believe __, he also gave some examples, such as __
+
+In summary, the discussion is mainly about __
+
+
+
+
+
+
+
+there are three students discussing about __
+
+for the first student, he mentions about __, he also argues that __
+
+for the second student, he agree with A, which is realted to __, moreover he provides some detals about __
+
+for the third students, he also agree with the first one, he believe __, he also gave some examples, such as __
+
+In summay, the discusion is mainly about __.
+
+
+
+
+
+excuse me, I'm sorry to bother you, I'd like to discuss sth. wiht you .
+
+the problem is __
+
+I really suggest that __
+
+thank you for your understanding.
+
+Let me konw what what you are thinking.
